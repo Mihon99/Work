@@ -1,0 +1,15 @@
+D:\ДЗ 3.1-го семинара\Homework\bin\Debug\net7.0\Homework.exe
+D:\ДЗ 3.1-го семинара\Homework\bin\Debug\net7.0\Homework.deps.json
+D:\ДЗ 3.1-го семинара\Homework\bin\Debug\net7.0\Homework.runtimeconfig.json
+D:\ДЗ 3.1-го семинара\Homework\bin\Debug\net7.0\Homework.dll
+D:\ДЗ 3.1-го семинара\Homework\bin\Debug\net7.0\Homework.pdb
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\Homework.csproj.AssemblyReference.cache
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\Homework.AssemblyInfoInputs.cache
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\Homework.AssemblyInfo.cs
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\Homework.csproj.CoreCompileInputs.cache
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\Homework.dll
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\refint\Homework.dll
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\Homework.pdb
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\Homework.genruntimeconfig.cache
+D:\ДЗ 3.1-го семинара\Homework\obj\Debug\net7.0\ref\Homework.dll
